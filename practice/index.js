@@ -1,0 +1,6 @@
+// import './instance'
+// import './lifeCycle'
+// import './dataBinding'
+// import './computed'
+// import './directive'
+import './component'

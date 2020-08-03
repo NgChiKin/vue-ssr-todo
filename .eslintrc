@@ -1,0 +1,12 @@
+{
+  "extends": "@vue/standard",
+  "plugins": [
+    "vue"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "no-new": "off",
+    "semi": "off",
+    "space-before-function-paren": "off"
+  }
+}
